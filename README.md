@@ -1,3 +1,4 @@
+# Перевод софта для M690-PRO
 # 🖥️ Redragon M690-PRO Setup
 
 ![Minecraft](https://img.shields.io/badge/Mouse-Software-white)
