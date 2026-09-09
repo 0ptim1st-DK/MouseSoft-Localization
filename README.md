@@ -83,7 +83,7 @@
 
 ## Ручная установка
 
-1. Скачайте софт для M690-PRO [здесь]() или с [официального сайта](https://redragonshop.com/blogs/product-download/mirage-m690-pro)
+1. Скачайте софт для M690-PRO [здесь](https://github.com/0ptim1st-DK/MouseSoft-Localization/blob/main/Files/download/Redragon_M690-PRO_Setup_v1.0%2020221125.exe) или с [официального сайта](https://redragonshop.com/blogs/product-download/mirage-m690-pro)
 2. Выполните стандартную установку ПО
 3. После успешной установки закройте программу а так же убедитесь что она не запущена в трее
 4. Перейдите к расположению файлов софта (по умолчанию: "C:\Program Files (x86)\Redragon M690-PRO")
