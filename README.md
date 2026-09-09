@@ -36,7 +36,7 @@
 
 ---
 
-## 📥 Установка
+## 📥 Установка при помощи утилиты
 
 ### Системные требования
 
@@ -46,12 +46,12 @@
 
 ### Установка (5 простых шагов)
 
-1. **Скачайте** [`Redragon_Setup.exe`]()
+1. **Скачайте** [`Redragon_Setup.exe`](https://github.com/0ptim1st-DK/MouseSoft-Localization/releases/download/v1.0/Redragon_M690-PRO_Setup_v1.0.exe)
 2. **Запустите** от имени администратора
 3. Нажмите **"Установить программу"**
 4. Выполните установку программы выбрав все параметры как вам удобно и завершите установку
 5. Нажмите **Установить локализацию**
-Готово! Остаётся только открыть сам софт и выбрать нужный язык
+Готово! Остаётся только открыть сам софт и выбрать нужный язык, а утилиту для установки можно удалить
 
 ---
 
@@ -83,11 +83,11 @@
 
 ## Ручная установка
 
-1. Скачайте софт для M690-PRO [здесь](https://github.com/0ptim1st-DK/MouseSoft-Localization/blob/main/Files/download/Redragon_M690-PRO_Setup_v1.0%2020221125.exe) или с [официального сайта](https://redragonshop.com/blogs/product-download/mirage-m690-pro)
+1. Скачайте софт для M690-PRO [здесь](https://github.com/0ptim1st-DK/MouseSoft-Localization/releases/download/v1.0/Redragon_M690-PRO_Software.exe) или с [официального сайта](https://redragonshop.com/blogs/product-download/mirage-m690-pro)
 2. Выполните стандартную установку ПО
 3. После успешной установки закройте программу а так же убедитесь что она не запущена в трее
 4. Перейдите к расположению файлов софта (по умолчанию: "C:\Program Files (x86)\Redragon M690-PRO")
-5. Замените папку ``` Text ``` и файл ``` Cfg.ini ``` на предоставленные в этом архиве  *[Тык]()*
+5. Замените папку ``` Text ``` и файл ``` Cfg.ini ``` на предоставленные в этом архиве  *[Тык](https://github.com/0ptim1st-DK/MouseSoft-Localization/releases/download/v1.0/LocalizationSet.zip)*
 6. После замены можно запускать программу и готово
 
 ## Redragon M690-PRO Setup v1.0 | Сделано для удобства пользователей!
