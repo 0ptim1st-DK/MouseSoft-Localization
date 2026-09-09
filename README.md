@@ -1,5 +1,9 @@
 # 🖥️ Redragon M690-PRO Setup
 
+![Minecraft](https://img.shields.io/badge/Mouse-Software-white)
+![Minecraft](https://img.shields.io/badge/on-Ozon-blue)
+![Minecraft](https://img.shields.io/badge/by-RedDragon-red)
+
 ![Логотип программы](logo.png)
 
 > **Простой установщик софта Redragon M690-PRO с русским языком**
